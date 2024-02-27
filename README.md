@@ -1,2 +1,3 @@
 # dsa-cpp-learning
-This is a collection of C++ code for various DSA concepts, created while I learn and practice them.
+This is a collection of C++ code for various DSA concepts, created while I learn and practice them.<br>
+Author - Akash Murade
